@@ -1,4 +1,4 @@
-# Professional Read Me Generator
+# Tongs Professional Read Me Generator
   ## Licensing:
   [![license](https://img.shields.io/badge/license-Apache-blue)](https://shields.io)
   ## Table of Contents 
@@ -9,17 +9,17 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
   ## Description:
-  This was created so the user is able to create a professional read me page using node
+  This was made for users to create Professional Read Me's for their projects using node
   ## Installation:
-  node is required to be installed, along with npm commands
+  download the required files from Git Hub. You will also need to install node if you havent yet. Also will need install inquirer and others using NPM commands
   ## Usage:
-  download required files, then using git bash or vs code, run the command "node index"
+  After installation of riquired files is complete. Using either git bash or VS code, enter the command "node index" to run it.
   ## License:
   Apache
   ## Contribution:
-  through git hub
+  Through Git hub if needed
   ## Testing:
-  please refer to "how do you use this project"
+  Please refer to "how do i use this project?"
   ## Additional Info:
   - Github: [tlor0026](https://github.com/tlor0026)
   - Email: tlor0026@gmail.com 
